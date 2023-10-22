@@ -5,7 +5,7 @@
       "id":1,
       "question": "Qual super poder você escolheria ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+        {"id": 1, "name":"Invisibilidade", "alias":"A"},
         {"id": 2, "name":"Voar ", "alias":"B"},
         {"id": 3, "name":"Super Força", "alias":"A"},
         {"id": 4, "name":"Velocidade", "alias":"B"},
@@ -17,7 +17,7 @@
       "question": "Quem você salvaria primeiro ?",
       "options":[
         {"id": 1, "name":"Amor da sua vida", "alias":"A"},
-        {"id": 2, "name":"Uma escola escola de criança", "alias":"B"}
+        {"id": 2, "name":"Uma escola cheia de criança", "alias":"B"}
       ]
     },
     {
@@ -50,32 +50,32 @@
       "id":6,
       "question": "No seu tempo livre vc ?",
       "options":[
-        {"id": 1, "name":"Treina suas habilidades", "alias":"A"},
-        {"id": 2, "name":"Vai curtir a vida de super-heroi", "alias":"B"}
+        {"id": 1, "name":"Treina suas habilidades", "alias":"B"},
+        {"id": 2, "name":"Vai curtir a vida de super-heroi", "alias":"A"}
       ]
     },
     {
       "id":7,
       "question": "Qual é a sua visão sobre a justiça ?",
       "options":[
-        {"id": 2, "name":"Garantir que todos tenham um julgamento justo e igualitário.", "alias":"A"},
-        {"id": 1, "name":"Punir os culpados sem piedade.", "alias":"B"}
+        {"id": 2, "name":"Garantir que todos tenham um julgamento justo e igualitário.", "alias":"B"},
+        {"id": 1, "name":"Punir os culpados sem piedade.", "alias":"A"}
       ]
     },
     {
       "id":8,
       "question": "Qual sua frase de efeito ?",
       "options":[
-        {"id": 2, "name":"Chegou o terror dos vilões", "alias":"A"},
-        {"id": 1, "name":"Vou explodir tudo ao meu redor", "alias":"B"}
+        {"id": 2, "name":"Chegou o terror dos vilões", "alias":"B"},
+        {"id": 1, "name":"Vou explodir tudo ao meu redor", "alias":"A"}
       ]
     },
     {
       "id":9,
-      "question": "O que você faria se descobrisse que alguém próximo a você está envolvido em atividades criminosas?",
+      "question": "Se alguém próximo a você estivesse envolvido em atividades criminosas?",
       "options":[
-        {"id": 2, "name":"Tentaria convencer a pessoa a se redimir e, se necessário, denunciaria suas ações.", "alias":"A"},
-        {"id": 1, "name":"Tentaria esconder crimes dela", "alias":"B"}
+        {"id": 2, "name":"Tentaria convencer a pessoa a se redimir e, se necessário, denunciaria suas ações.", "alias":"B"},
+        {"id": 1, "name":"Tentaria esconder crimes dela", "alias":"A"}
       ]
     }
   ],
